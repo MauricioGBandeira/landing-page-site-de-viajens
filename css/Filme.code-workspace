@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../NovoProjeto"
+		},
+		{
+			"path": "../../atividade 7"
+		},
+		{
+			"path": "../../exercicioCSS"
+		},
+		{
+			"path": "../../Exer.CSS1"
+		},
+		{
+			"path": "../../Exer.formulario"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../live js 01"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "live js 01"
+	}
+}
